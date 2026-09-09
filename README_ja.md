@@ -11,9 +11,9 @@ External Plannerの詳細内容については[📖Autoware.universe](https://gi
 
 #### `tier4_planning_msgs/msg/Scenario.msg`
 
-| Constant    | Type     | Value         | Description           |
-| ------------| -------- |  -----------  |  ---------------------| 	
-| `EMPTY`     | `string` | `External`    | ExternalPlanner state |
+| 定数名 | 型 | 値 | 説明 |
+| -- | -- | -- | -- |
+| `EXTERNAL` | `string` | `External` | 外部のカスタムプランナー状態 |
 
 ## ライセンス
 

@@ -11,9 +11,9 @@ To enable the functionality to switch to an external custom planner (External Pl
 
 #### `tier4_planning_msgs/msg/Scenario.msg`
 
-| Constant    | Type     | Value         | Description           |
-| ------------| -------- |  -----------  |  ---------------------| 	
-| `EMPTY`     | `string` | `External`    | ExternalPlanner state |
+| Constant Name | Type     | Value      | Description           |
+| ------------- | -------- | ---------- | --------------------- |
+| `EXTERNAL`    | `string` | `External` | ExternalPlanner state |
 
 ## License
 This project follows the original Autoware.universe project license. See [LICENSE](LICENSE) for details.
